@@ -149,8 +149,7 @@ https://shreya-jayani.vercel.app
 
 💼 **LinkedIn**
 
-[(Add your LinkedIn URL)
-](https://www.linkedin.com/in/shreya-jayani/)
+(https://www.linkedin.com/in/shreya-jayani/)
 
 📧 **Email**
 
