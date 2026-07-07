@@ -1,138 +1,165 @@
 <div align="center">
 
-# Hi 👋 I'm Shreya Jayani
+# 👋 Hi, I'm Shreya Jayani
 
 ### 📊 Business Intelligence | Data Analytics | Power BI | SQL | Python
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=0E76A8&center=true&vCenter=true&width=700&lines=Business+Intelligence+Developer;Power+BI+%7C+SQL+Server+%7C+Python;Building+Data+Driven+Solutions;Turning+Data+Into+Business+Insights" />
+Transforming raw data into meaningful business insights through interactive dashboards and analytics.
+
+<p>
+<a href="https://shreya-jayani.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/shreya-jayani">
+<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Master's in Automotive Software Engineering (TU Chemnitz)
-
+🎓 M.Sc. Automotive Software Engineering  
 📍 Darmstadt, Germany
 
-📈 Passionate about Business Intelligence, Data Analytics and Reporting
+I enjoy solving business problems using data.
 
-💡 Interested in transforming business data into actionable insights through interactive dashboards.
+My focus areas are:
+
+- 📈 Business Intelligence
+- 📊 Power BI Dashboard Development
+- 🗄 SQL & Data Warehousing
+- 🐍 Python Data Analytics
+- 📉 KPI Reporting
+- ⚙ ETL Pipelines
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ## 🏢 Real Estate Business Intelligence Platform
 
-✔ SQL Server Data Warehouse
+Enterprise-grade BI platform built using Python, SQL Server and Power BI.
 
-✔ Python ETL
+### Highlights
 
-✔ Power BI
+✔ Star Schema Data Warehouse
 
-✔ DAX
+✔ ETL Pipeline
 
-✔ Executive Dashboards
+✔ SQL Server
 
-</td>
-
-<td>
-
-<img src="YOUR_REAL_ESTATE_SCREENSHOT" width="500">
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-## 📊 Enterprise KPI Reporting Dashboard
-
-✔ AdventureWorks
-
-✔ SQL Views
-
-✔ Power BI
+✔ DAX Measures
 
 ✔ Executive Reporting
 
-✔ KPI Analysis
+✔ Sustainability Analytics
 
-</td>
+**Tech**
 
-<td>
-
-<img src="YOUR_ENTERPRISE_SCREENSHOT" width="500">
-
-</td>
-
-</tr>
-
-</table>
+`Python`
+`SQL Server`
+`Power BI`
+`DAX`
+`Power Query`
 
 ---
 
-# 🛠 Tech Stack
+## 📊 Enterprise KPI Reporting Dashboard
+
+Interactive KPI reporting solution developed using AdventureWorks2022.
+
+### Highlights
+
+✔ Executive Dashboard
+
+✔ Sales Analytics
+
+✔ Customer Analytics
+
+✔ Territory Performance
+
+✔ SQL Reporting Views
+
+**Tech**
+
+`SQL Server`
+`Power BI`
+`DAX`
+`Power Query`
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Business Intelligence
 
-<p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=python"/>
+![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+![Power Query](https://img.shields.io/badge/Power_Query-107C10?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/SQL_Server-red?style=for-the-badge"/>
+### Database
 
-<img src="https://img.shields.io/badge/DAX-blue?style=for-the-badge"/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<img src="https://img.shields.io/badge/Power_Query-green?style=for-the-badge"/>
+### Data Analysis
 
-<img src="https://img.shields.io/badge/ETL-orange?style=for-the-badge"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreya-jayani&show_icons=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-jayani"/>
-
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ---
 
-# 📂 Portfolio
+# 📚 Currently Learning
 
-🌐 Portfolio
+- Microsoft Fabric
+- Azure Data Services
+- Advanced Power BI
+- Data Engineering
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shreya-jayani&show_icons=true&theme=default)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shreya-jayani)
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+🌐 **Portfolio**
 
 https://shreya-jayani.vercel.app
 
----
+💼 **LinkedIn**
 
-# 📬 Connect with Me
+[(Add your LinkedIn URL)
+](https://www.linkedin.com/in/shreya-jayani/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/shreya-jayani/)
+📧 **Email**
 
-📧 jayanishreya020@gmail.com
-
-🌍 [Portfolio](https://shreya-jayani.vercel.app)
+jayanishreya020@gmail.com
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
 
 </div>
