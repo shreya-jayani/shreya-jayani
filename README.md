@@ -125,9 +125,9 @@ https://shreya-jayani.vercel.app
 
 💼 [LinkedIn](https://www.linkedin.com/in/shreya-jayani/)
 
-📧 [gmail]jayanishreya020@gmail.com
+📧 jayanishreya020@gmail.com
 
-🌍 Portfolio
+🌍 [Portfolio](https://shreya-jayani.vercel.app)
 
 ---
 
